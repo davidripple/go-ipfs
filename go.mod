@@ -17,7 +17,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.1
 	github.com/hsanjuan/go-libp2p-http v0.0.2
 	github.com/ipfs/dir-index-html v1.0.3
-	github.com/ipfs/go-bitswap v0.0.5
+	github.com/ipfs/go-bitswap v0.0.6-0.20190520182618-94b505a64229
 	github.com/ipfs/go-block-format v0.0.2
 	github.com/ipfs/go-blockservice v0.0.3
 	github.com/ipfs/go-cid v0.0.2
@@ -125,7 +125,6 @@ require (
 	golang.org/x/crypto v0.0.0-20190513172903-22d7a77e9e5f // indirect
 	golang.org/x/net v0.0.0-20190514140710-3ec191127204 // indirect
 	golang.org/x/sys v0.0.0-20190520161452-ad400b127469
-	golang.org/x/text v0.3.2 // indirect
 	google.golang.org/appengine v1.4.0 // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
 	gotest.tools/gotestsum v0.3.4
